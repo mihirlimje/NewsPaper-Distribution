@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="news_paper_name" label="News Paper Name" language="en" table="x_951571_newspap_0_news_paper">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>news_paper_name</element>
+            <help/>
+            <hint/>
+            <label>News Paper Name</label>
+            <language>en</language>
+            <name>x_951571_newspap_0_news_paper</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-27 09:19:52</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>News Paper Name</sys_name>
+            <sys_package display_value="NewsPaper Distribution System" source="x_951571_newspap_0">6dd65bf483e44310a6275929feaad339</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NewsPaper Distribution System">6dd65bf483e44310a6275929feaad339</sys_scope>
+            <sys_update_name>sys_documentation_x_951571_newspap_0_news_paper_news_paper_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-27 09:19:52</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

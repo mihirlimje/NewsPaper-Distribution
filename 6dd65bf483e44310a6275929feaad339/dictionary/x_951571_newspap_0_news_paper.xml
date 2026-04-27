@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1707133883e44310a6275929feaad395" label="News Paper" max_length="40" name="x_951571_newspap_0_news_paper" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="News Paper Name" max_length="40" name="news_paper_name" type="string"/>
+    </element>
+</database>
