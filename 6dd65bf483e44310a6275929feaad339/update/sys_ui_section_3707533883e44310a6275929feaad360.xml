@@ -4,13 +4,83 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-04-27 09:18:45</sys_created_on>
-            <sys_id>7307533883e44310a6275929feaad367</sys_id>
+            <sys_created_on>2026-04-27 09:32:05</sys_created_on>
+            <sys_id>971ad3bc83e44310a6275929feaad3d8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_951571_newspap_0_news_paper" sys_domain="global" view="Default view">3707533883e44310a6275929feaad360</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-04-27 09:18:45</sys_updated_on>
+            <sys_updated_on>2026-04-27 09:32:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>news_paper_name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-27 09:32:05</sys_created_on>
+            <sys_id>531ad3bc83e44310a6275929feaad3d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_951571_newspap_0_news_paper" sys_domain="global" view="Default view">3707533883e44310a6275929feaad360</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-27 09:32:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_on</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-27 09:32:05</sys_created_on>
+            <sys_id>931a57bc83e44310a6275929feaad3e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_951571_newspap_0_news_paper" sys_domain="global" view="Default view">3707533883e44310a6275929feaad360</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-27 09:32:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_by</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-27 09:32:05</sys_created_on>
+            <sys_id>5f1a57bc83e44310a6275929feaad3e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_951571_newspap_0_news_paper" sys_domain="global" view="Default view">3707533883e44310a6275929feaad360</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-27 09:32:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_on</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-27 09:32:05</sys_created_on>
+            <sys_id>1b1a57bc83e44310a6275929feaad3e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_951571_newspap_0_news_paper" sys_domain="global" view="Default view">3707533883e44310a6275929feaad360</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-27 09:32:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_by</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-27 09:32:05</sys_created_on>
+            <sys_id>d31a57bc83e44310a6275929feaad3e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_951571_newspap_0_news_paper" sys_domain="global" view="Default view">3707533883e44310a6275929feaad360</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-27 09:32:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
