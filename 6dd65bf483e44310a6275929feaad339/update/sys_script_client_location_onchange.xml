@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description>Shows info message when location is selected to ensure correct location for newspaper distribution</description>
+        <field>location</field>
+        <filter_condition/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Location onChange Info Message</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+    if (isLoading || newValue === '') {
+        return;
+    }
+    
+    // Show info message when location is selected
+    var message = "Make sure you select the correct location for your newspaper distribution.";
+    
+    // Display info message on the form
+    g_form.addInfoMessage(message);
+    
+    // Optional: You can also log to console for debugging
+    console.log('Location changed from: ' + oldValue + ' to: ' + newValue);
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-27 18:33:00</sys_created_on>
+        <sys_id>89012345678901234567890123456789</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Location onChange Info Message</sys_name>
+        <sys_package display_value="NewsPaper Distribution System">6dd65bf483e44310a6275929feaad339</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="NewsPaper Distribution System">6dd65bf483e44310a6275929feaad339</sys_scope>
+        <sys_update_name>sys_script_client_location_onchange</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-27 18:33:00</sys_updated_on>
+        <table>x_951571_newspap_0_news_paper</table>
+        <type>onChange</type>
+        <ui_type>10</ui_type>
+        <view_name/>
+    </sys_script_client>
+    <sys_translated_text action="delete_multiple" query="documentkey=89012345678901234567890123456789"/>
+</record_update>
