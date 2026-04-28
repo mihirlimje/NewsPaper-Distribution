@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_documentation">
+    <sys_documentation action="INSERT_OR_UPDATE">
+        <element>assigned_to</element>
+        <help/>
+        <hint/>
+        <label>Assigned to</label>
+        <language>en</language>
+        <name>x_951571_newspap_0_news_paper</name>
+        <plural>Assigned to</plural>
+        <sys_class_name>sys_documentation</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-28 09:56:00</sys_created_on>
+        <sys_id>02345678901234567890123456789012</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Assigned to</sys_name>
+        <sys_package display_value="NewsPaper Distribution System">6dd65bf483e44310a6275929feaad339</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="NewsPaper Distribution System">6dd65bf483e44310a6275929feaad339</sys_scope>
+        <sys_update_name>sys_documentation_x_951571_newspap_0_news_paper_assigned_to_en</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-28 09:56:00</sys_updated_on>
+        <table>x_951571_newspap_0_news_paper</table>
+        <url/>
+        <url_target/>
+    </sys_documentation>
+    <sys_translated_text action="delete_multiple" query="documentkey=02345678901234567890123456789012"/>
+</record_update>
